@@ -37,10 +37,11 @@
 | ------------------------------------------- | -------------------------------------------------- | ------------ |
 | [카페엠](https://mariacallashall.modoo.at/) | [서울 강남](https://goo.gl/maps/t1RDFK6eejWks2XS9) | 100          |
 
-#### 목적별 장소 대여 검색
+#### 목적별 장소 대여 검색(임시)
 
-* [스페이스클라우드](https://www.spacecloud.kr/) : 목적별로 검색 용이
-* [회의실닷컴](https://회의실.com/?utm_source=google&utm_medium=cpc&utm_campaign=clickchoice&gclid=Cj0KCQjwv8nqBRDGARIsAHfR9wCuL9V-MYGVYMHyyjRfkqH7NLSnEdTmqV7zf6rzxVIczgc7zR2DGnMaAo9wEALw_wcB) : 대형 회의실 검색 용이
+* [스페이스클라우드](https://www.spacecloud.kr/)
+* [회의실닷컴](https://회의실.com/?utm_source=google&utm_medium=cpc&utm_campaign=clickchoice&gclid=Cj0KCQjwv8nqBRDGARIsAHfR9wCuL9V-MYGVYMHyyjRfkqH7NLSnEdTmqV7zf6rzxVIczgc7zR2DGnMaAo9wEALw_wcB)
+* [온오프믹스 플레이스](https://place.onoffmix.com/)
 
 
 
