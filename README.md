@@ -8,6 +8,9 @@
 | [서울창조경제혁신센터](https://ccei.creativekorea.or.kr/seoul/service/reserve_step1.do) | [서울 용산](https://goo.gl/maps/2fCoT3ajEWmkevFF9) | 50           |
 | [코엑스](http://lmsweb.coex.co.kr/main/main.mvc)             | [서울 강남](https://goo.gl/maps/QMvHkDosPJyViSe97) | 다양         |
 | [마리아칼라스홀](https://mariacallashall.modoo.at/)          | [서울 강남](https://goo.gl/maps/t1RDFK6eejWks2XS9) | 65           |
+| [서울스퀘어](http://seoulsquare.com/service4/login.asp)      | [서울 중구](https://goo.gl/maps/Un4yU6fDanxzrPrF7) | 116          |
+| [대한상공회의소](https://www.korcham.net/nCham/Service/RentMeetRoom/appl/RentCalendar_new.asp) | [서울 중구](https://goo.gl/maps/ZopaLVjrKZSqcTUt9) | 다양         |
+| [한국농수산식품유통공사](https://www.at.or.kr/ac/reserve/acko312000/roomSelect.action) | [서울 서초](https://goo.gl/maps/tBJNeiDnkzKrEFgk7) | 다양         |
 
 ## 스타트업
 
