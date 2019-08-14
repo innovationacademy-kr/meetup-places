@@ -6,6 +6,8 @@
 | 장소                                                         | 위치                                               | 최대수용인원 |
 | ------------------------------------------------------------ | -------------------------------------------------- | ------------ |
 | [서울창조경제혁신센터](https://ccei.creativekorea.or.kr/seoul/service/reserve_step1.do) | [서울 용산](https://goo.gl/maps/2fCoT3ajEWmkevFF9) | 50           |
+| [코엑스](http://lmsweb.coex.co.kr/main/main.mvc)             | [서울 강남](https://goo.gl/maps/QMvHkDosPJyViSe97) | 다양         |
+| [마리아칼라스홀](https://mariacallashall.modoo.at/)          | [서울 강남](https://goo.gl/maps/t1RDFK6eejWks2XS9) | 65           |
 
 ## 스타트업
 
@@ -25,12 +27,15 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
 | [코너스톤](http://kornerstonespace.com/%ec%9d%b4%ec%9a%a9%ec%95%88%eb%82%b4/) | [서울 강남](https://goo.gl/maps/JfrWeGEgSMN8m4dZ8)           | 다양         |
 | [위워크](https://www.wework.com/ko-KR)                       | [서울](https://www.wework.com/ko-KR/l/seoul), [부산](https://www.wework.com/ko-KR/l/busan) | 다양         |
+| [코지모임공간](http://www.cozymoim.com/bbs/write/bbs_reservation) | [서울 강남(1호)](https://goo.gl/maps/yXY1e1hFkYoDaftu8), [서울 강남(2호)](https://goo.gl/maps/FBXAN52F86bHDjeh6), [서울 서초](https://goo.gl/maps/TiZLCp1eneJfWtucA) | 50, 130, 150 |
+| [토즈](https://www.toz.co.kr/boothSearch)                    | [전국](https://www.toz.co.kr/branchSearch)                   | 50           |
+| [리저스](https://www.regus.co.kr/)                           | [서울](https://www.regus.co.kr/workspace/korea-republic-of/%E1%84%89%E1%85%A5%E1%84%8B%E1%85%AE%E1%86%AF%E1%84%89%E1%85%B5), [대구](https://www.regus.co.kr/workspace/korea-republic-of/%E1%84%83%E1%85%A2%E1%84%80%E1%85%AE%E1%84%80%E1%85%AA%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%89%E1%85%B5), [부산](https://www.regus.co.kr/workspace/korea-republic-of/%E1%84%87%E1%85%AE%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AA%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%89%E1%85%B5) | 다양         |
 
 ## 카페&펍 대여
 
-| 장소 | 위치 | 최대수용인원 |
-| ---- | ---- | ------------ |
-|      |      |              |
+| 장소                                        | 위치                                               | 최대수용인원 |
+| ------------------------------------------- | -------------------------------------------------- | ------------ |
+| [카페엠](https://mariacallashall.modoo.at/) | [서울 강남](https://goo.gl/maps/t1RDFK6eejWks2XS9) | 100          |
 
 #### 목적별 장소 대여 검색
 
