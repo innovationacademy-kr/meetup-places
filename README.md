@@ -1,7 +1,31 @@
-# meetup-places
-커뮤니티 밋업을 할 수 있는 장소 목록입니다. 임대 조건은 직접 문의.
+# 밋업 및 컨퍼런스를 할 수 있는 공간 목록
 
-## 밋업(컨퍼런스)
+커뮤니티 밋업을 할 수 있는 장소 목록입니다. 임대 조건은 직접 문의하세요.
+
+밋업 장소를 새로 제공하시나요? 또는 이 리스트에 오류가 있나요?
+직접 수정하여 PR(Pull-Request)를 날려주시면 감사하겠습니다.
+어떻게 하시는지 모르시면 이슈에 해당 이벤트의 아래 정보와 링크를 등록해주세요.
+
+### 이 문서의 저작권 
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="80px"></img> 
+이 문서는 크리에이티브 커먼즈 저작자표시 2.0 대한민국 라이선스에 따라 
+누구나 이용할 수 있습니다. 하지만 복사하여 관리하시려면 힘드시니까,
+가장 관리 노력이 적은 여기에 추가하신 뒤 [이 링크, https://github.com/innovationacademy-kr/community-meetups](https://github.com/innovationacademy-kr/community-meetups)를 
+공유하시어 한 곳에 모든 정보가 모여있게 해주시면 좋겠습니다. 
+
+[CC-BY-NC-SA 2.0 (Creative Commons License Attribution-NonCommercial-ShareAlike)](https://creativecommons.org/licenses/by-nc-sa/2.0/): 
+비상업적으로 공유하신다면 별도의 허가는 필요없고, 출처만 밝히시면 됩니다.
+문서를 수정하거나 변형하여 공유해도 됩니다만, 반드시 같은 CC-BY-NC-SA
+저작권을 적용하시는 조건입니다.
+
+### 분류
+* [컨퍼런스 공간](#컨퍼런스-공간)
+* [스타트업 지원기관](#스타트업-지원기관)
+* [연수원](#연수원)
+* [공간대여 업체](#공간대여-업체)
+* [카페&펍 대여](#카페&펍-대여)
+
+## 컨퍼런스 공간
 
 | 장소                                                         | 위치                                               | 최대수용인원 |
 | ------------------------------------------------------------ | -------------------------------------------------- | ------------ |
@@ -12,13 +36,13 @@
 | [대한상공회의소](https://www.korcham.net/nCham/Service/RentMeetRoom/appl/RentCalendar_new.asp) | [서울 중구](https://goo.gl/maps/ZopaLVjrKZSqcTUt9) | 다양         |
 | [한국농수산식품유통공사](https://www.at.or.kr/ac/reserve/acko312000/roomSelect.action) | [서울 서초](https://goo.gl/maps/tBJNeiDnkzKrEFgk7) | 다양         |
 
-## 스타트업
+## 스타트업 지원기관
 
 | 장소 | 위치 | 최대수용인원 |
 | ---- | ---- | ------------ |
 |      |      |              |
 
-## 워크샵
+## 연수원
 
 | 장소 | 위치 | 최대수용인원 |
 | ---- | ---- | ------------ |
@@ -46,22 +70,11 @@
 * [회의실닷컴](https://회의실.com/?utm_source=google&utm_medium=cpc&utm_campaign=clickchoice&gclid=Cj0KCQjwv8nqBRDGARIsAHfR9wCuL9V-MYGVYMHyyjRfkqH7NLSnEdTmqV7zf6rzxVIczgc7zR2DGnMaAo9wEALw_wcB)
 * [온오프믹스 플레이스](https://place.onoffmix.com/)
 
-
-
 이 리스트에서 추가할 사항이 있으시거나
 오류가 있다면,  직접 수정하여 Pull Request를 날려주시면 감사하겠습니다.
 
-### 이 문서의 작성자
+### 이 문서의 공헌자 (가나다순)
 
+- [이 민석](mailto:ykhl1itj@gmail.com)
 - [이 하늘](mailto:lee.haneul@gmail.com)
 
-### 이 문서의 저작권 
-
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="80px"></img> 
-이 문서는 크리에이티브 커먼즈 저작자표시 2.0 대한민국 라이선스에 따라 
-누구나 이용할 수 있습니다.
-
-[CC-BY-NC-SA 2.0 (Creative Commons License Attribution-NonCommercial-ShareAlike)](https://creativecommons.org/licenses/by-nc-sa/2.0/): 
-비상업적으로 공유하신다면 별도의 허가는 필요없고, 출처만 밝히시면 됩니다.
-문서를 수정하거나 변형하여 공유해도 됩니다만, 반드시 같은 CC-BY-NC-SA
-저작권을 적용하시는 조건입니다.
