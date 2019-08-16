@@ -49,6 +49,8 @@
 | [드림플러스](https://www.dreamplus.asia/center/gangnam)      | [서울 서초](https://goo.gl/maps/DxpirusvFc6G5bRX8), [서울 영등포](https://goo.gl/maps/n1tAqFtQWurhasHp7) | 문의         |
 | [팁스코리아](http://www.jointips.or.kr/bbs/board.php?bo_table=campus_bldg) | [서울 강남](https://goo.gl/maps/HgMGfjoMh9xfAPPf6)           | 문의         |
 | [오퍼스비즈플라자](http://www.opusbiz.kr/)                   | [서울 서초](https://goo.gl/maps/5QhPNxLrY4kCL3RQ6)           | 3            |
+| [카페24창업센터](https://www.spacecloud.kr/space/9056?keyword_id=3344) | [서울 동대문](https://goo.gl/maps/2WyC7Jza1qmQiYNUA)         | 2            |
+|                                                              |                                                              |              |
 
 ## 연수원
 
@@ -93,7 +95,7 @@
 | [좋은이웃 카페](https://www.spacecloud.kr/space/7392)     | [서울 종로](https://www.spacecloud.kr/space/7392)  | 50           |
 | [펀치드렁크펍](https://www.spacecloud.kr/space/2969)      | [서울 마포](https://goo.gl/maps/pjpXigtzoDZjmz7w5) | 40           |
 | [슬링펍](https://www.spacecloud.kr/space/634)             | [서울 강남](https://goo.gl/maps/mnAqRn43kt6DMide8) | 100          |
-|                                                           |                                                    |              |
+| [마켓온오프](https://www.spacecloud.kr/space/21070)       | [서울 성동](https://goo.gl/maps/vpzDg6z68NzdYYVV8) | 80           |
 
 ### 장소 대여 검색
 
