@@ -10,7 +10,7 @@
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="80px"></img> 
 이 문서는 크리에이티브 커먼즈 저작자표시 2.0 대한민국 라이선스에 따라 
 누구나 이용할 수 있습니다. 하지만 복사하여 관리하시려면 힘드시니까,
-가장 관리 노력이 적은 여기에 추가하신 뒤 [이 링크, https://github.com/innovationacademy-kr/community-meetups](https://github.com/innovationacademy-kr/community-meetups)를 
+가장 관리 노력이 적은 여기에 추가하신 뒤 [이 링크, https://github.com/innovationacademy-kr/meetup-places](https://github.com/innovationacademy-kr/meetup-places)를 
 공유하시어 한 곳에 모든 정보가 모여있게 해주시면 좋겠습니다. 
 
 [CC-BY-NC-SA 2.0 (Creative Commons License Attribution-NonCommercial-ShareAlike)](https://creativecommons.org/licenses/by-nc-sa/2.0/): 
