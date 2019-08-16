@@ -49,9 +49,21 @@
 
 ## 연수원
 
-| 장소 | 위치 | 최대수용인원 |
-| ---- | ---- | ------------ |
-|      |      |              |
+| 장소                                                         | 위치                                                 | 최대수용인원 |
+| ------------------------------------------------------------ | ---------------------------------------------------- | ------------ |
+| [동화컬처빌리지](http://www.dongwhaculturevillage.com/guide/guide_01.asp) | [경기 남양주](https://goo.gl/maps/6GNCMjxMgcU6WZSRA) | 92           |
+| [다누리골](http://www.danurigol.com/modules/reservation_pension/pr_calendar.html) | [경기 용인](https://goo.gl/maps/T7w2j7NUCBjJ3qoP7)   | 90           |
+| [KG써닝리더쉽센터](http://www.sunningleader.co.kr/guide/guide01.php) | [경기 용인](https://goo.gl/maps/Pg6xm6JExoD7qbiF6)   | 330이상      |
+| [블룸비스타](http://www.bloomvista.co.kr/reservation/reservation03.html) | [경기 양평](https://goo.gl/maps/VWvqZVjst5udMfP66)   | 400          |
+| [충주한마음연수원](http://www.scgoneheart.co.kr/hanmaum/Accou/accou01.jsp?menuId=31) | [충북 충주](https://goo.gl/maps/yLZup3DWSwhN471k7)   | 180          |
+| [좋은아침연수원](http://www.gmhrd.com/sub03/sub02.php?mNum=3&sNum=2) | [경기 가평](https://goo.gl/maps/2GNWHNMaSBFVxfCG8)   | 256          |
+| [하이서울유스호스텔](http://hiseoulyh.com/group-reservation/) | [서울 영등포](https://goo.gl/maps/VMG7eAawCqmYtcmX8) | 140          |
+| [그레이스힐](http://www.scggracehill.co.kr/)                 | [인천 강화](https://goo.gl/maps/jmUkZMqcVFgLLGiw7)   | 192          |
+| [YBM연수원](https://www.ybmacademy.com/reservation/reservApply) | [경기 화성](https://goo.gl/maps/w46ouxaQiH7YVBrP6)   | 400          |
+| [유진인재개발원](http://hrd.eugenes.co.kr/)                  | [서울 종로](https://goo.gl/maps/55CcGRYEW5LzWMLN7)   | 50           |
+| [영종스카이리조트](http://www.yjskyresort.com/board/board_read.aspx?board_idx=479&page=1&board_code=4007) | [인천 중구](https://goo.gl/maps/7k5dMV9TAHz3extK8)   | 256          |
+| [라르고빌](http://www.largoville.com/pages/page6_2_2.php?is_re=resort) | [인천 강화](https://goo.gl/maps/zE4ZuB97EAMQQqJN9)   | 다양         |
+| [아트시티펜션](http://www.artcityps.com/index.php)           | [경기 양주](https://goo.gl/maps/UZivf4zHDcZ4JBmm6)   | 문의         |
 
 ## 공간대여 업체
 
