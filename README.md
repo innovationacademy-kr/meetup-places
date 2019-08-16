@@ -35,6 +35,11 @@
 | [서울스퀘어](http://seoulsquare.com/service4/login.asp)      | [서울 중구](https://goo.gl/maps/Un4yU6fDanxzrPrF7) | 116          |
 | [대한상공회의소](https://www.korcham.net/nCham/Service/RentMeetRoom/appl/RentCalendar_new.asp) | [서울 중구](https://goo.gl/maps/ZopaLVjrKZSqcTUt9) | 다양         |
 | [한국농수산식품유통공사](https://www.at.or.kr/ac/reserve/acko312000/roomSelect.action) | [서울 서초](https://goo.gl/maps/tBJNeiDnkzKrEFgk7) | 다양         |
+| [야나두 스페이스](https://www.spacecloud.kr/space/8417)      | [서울 강남](https://goo.gl/maps/C13FHdRPiMP9LUgLA) | 180          |
+| [월서울](https://www.spacecloud.kr/space/1597)               | [서울 성동](https://goo.gl/maps/Qj34mmVeRrVfLyDZ7) | 115          |
+| [라마다 서울 동대문](http://www.ramadaddm.com/banquet/ballroom.html) | [서울 중구](https://goo.gl/maps/8YnTKCCp81eVDU5L9) | 150          |
+| [SETEC](http://www.setec.or.kr/dis/rent/rent05.do)           | [서울 강남](https://goo.gl/maps/dY6h1qT914xbLzcWA) | 다양         |
+|                                                              |                                                    |              |
 
 ## 스타트업 지원기관
 
@@ -57,12 +62,23 @@
 | [코지모임공간](http://www.cozymoim.com/bbs/write/bbs_reservation) | [서울 강남(1호)](https://goo.gl/maps/yXY1e1hFkYoDaftu8), [서울 강남(2호)](https://goo.gl/maps/FBXAN52F86bHDjeh6), [서울 서초](https://goo.gl/maps/TiZLCp1eneJfWtucA) | 50, 130, 150 |
 | [토즈](https://www.toz.co.kr/boothSearch)                    | [전국](https://www.toz.co.kr/branchSearch)                   | 50           |
 | [리저스](https://www.regus.co.kr/)                           | [서울](https://www.regus.co.kr/workspace/korea-republic-of/%E1%84%89%E1%85%A5%E1%84%8B%E1%85%AE%E1%86%AF%E1%84%89%E1%85%B5), [대구](https://www.regus.co.kr/workspace/korea-republic-of/%E1%84%83%E1%85%A2%E1%84%80%E1%85%AE%E1%84%80%E1%85%AA%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%89%E1%85%B5), [부산](https://www.regus.co.kr/workspace/korea-republic-of/%E1%84%87%E1%85%AE%E1%84%89%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AA%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%89%E1%85%B5) | 다양         |
+| [로켓티어](http://rocketeer.kr/plan-price/)                  | [경기 고양](https://goo.gl/maps/KLsvZtjtFrQcUYnY6)           | 24           |
+| [패스트파이브](https://www.fastfive.co.kr/visit-us/)         | [서울 강남, 강북](https://www.fastfive.co.kr/)               | 다양         |
+|                                                              |                                                              |              |
 
 ## 카페-펍 대여
 
-| 장소                                        | 위치                                               | 최대수용인원 |
-| ------------------------------------------- | -------------------------------------------------- | ------------ |
-| [카페엠](https://mariacallashall.modoo.at/) | [서울 강남](https://goo.gl/maps/t1RDFK6eejWks2XS9) | 100          |
+| 장소                                                      | 위치                                               | 최대수용인원 |
+| --------------------------------------------------------- | -------------------------------------------------- | ------------ |
+| [카페엠](https://mariacallashall.modoo.at/)               | [서울 강남](https://goo.gl/maps/t1RDFK6eejWks2XS9) | 100          |
+| [YOGERPRESSO](https://783391.wixsite.com/moime/about_us)  | [서울 노원](https://goo.gl/maps/b3QtvEs6yZvspTBcA) | 40           |
+| [이너프라운지](https://www.spacecloud.kr/space/549)       | [서울 마포](https://goo.gl/maps/27GUXwoeCSVv4GLr7) | 50           |
+| [오리진 동유럽카페](https://www.spacecloud.kr/space/8112) | [서울 은평](https://goo.gl/maps/WV12MQ8nWrBpAEBG9) | 30           |
+| [스몰웰컴](https://www.spacecloud.kr/space/13310)         | [서울 강남](https://goo.gl/maps/4SXJSFs2wXkoTWbt8) | 45           |
+| [좋은이웃 카페](https://www.spacecloud.kr/space/7392)     | [서울 종로](https://www.spacecloud.kr/space/7392)  | 50           |
+| [펀치드렁크펍](https://www.spacecloud.kr/space/2969)      | [서울 마포](https://goo.gl/maps/pjpXigtzoDZjmz7w5) | 40           |
+| [슬링펍](https://www.spacecloud.kr/space/634)             | [서울 강남](https://goo.gl/maps/mnAqRn43kt6DMide8) | 100          |
+|                                                           |                                                    |              |
 
 #### 목적별 장소 대여 검색(임시)
 
