@@ -27,21 +27,32 @@
 
 ## 컨퍼런스 공간
 
-| 장소                                                         | 위치                                               | 최대수용인원 |
-| ------------------------------------------------------------ | -------------------------------------------------- | ------------ |
-| [서울창조경제혁신센터](https://ccei.creativekorea.or.kr/seoul/service/reserve_step1.do) | [서울 용산](https://goo.gl/maps/2fCoT3ajEWmkevFF9) | 50           |
-| [코엑스](http://lmsweb.coex.co.kr/main/main.mvc)             | [서울 강남](https://goo.gl/maps/QMvHkDosPJyViSe97) | 다양         |
-| [마리아칼라스홀](https://mariacallashall.modoo.at/)          | [서울 강남](https://goo.gl/maps/t1RDFK6eejWks2XS9) | 65           |
-| [서울스퀘어](http://seoulsquare.com/service4/login.asp)      | [서울 중구](https://goo.gl/maps/Un4yU6fDanxzrPrF7) | 116          |
-| [대한상공회의소](https://www.korcham.net/nCham/Service/RentMeetRoom/appl/RentCalendar_new.asp) | [서울 중구](https://goo.gl/maps/ZopaLVjrKZSqcTUt9) | 다양         |
-| [한국농수산식품유통공사](https://www.at.or.kr/ac/reserve/acko312000/roomSelect.action) | [서울 서초](https://goo.gl/maps/tBJNeiDnkzKrEFgk7) | 다양         |
-| [야나두 스페이스](https://www.spacecloud.kr/space/8417)      | [서울 강남](https://goo.gl/maps/C13FHdRPiMP9LUgLA) | 180          |
-| [월서울](https://www.spacecloud.kr/space/1597)               | [서울 성동](https://goo.gl/maps/Qj34mmVeRrVfLyDZ7) | 115          |
-| [라마다 서울 동대문](http://www.ramadaddm.com/banquet/ballroom.html) | [서울 중구](https://goo.gl/maps/8YnTKCCp81eVDU5L9) | 150          |
-| [SETEC](http://www.setec.or.kr/dis/rent/rent05.do)           | [서울 강남](https://goo.gl/maps/dY6h1qT914xbLzcWA) | 다양         |
-|                                                              |                                                    |              |
+| 장소                                                         | 위치                                                         | 최대수용인원 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
+| [서울창조경제혁신센터](https://ccei.creativekorea.or.kr/seoul/service/reserve_step1.do) | [서울 용산](https://goo.gl/maps/2fCoT3ajEWmkevFF9)           | 50           |
+| [코엑스](http://lmsweb.coex.co.kr/main/main.mvc)             | [서울 강남](https://goo.gl/maps/QMvHkDosPJyViSe97)           | 다양         |
+| [마리아칼라스홀](https://mariacallashall.modoo.at/)          | [서울 강남](https://goo.gl/maps/t1RDFK6eejWks2XS9)           | 65           |
+| [서울스퀘어](http://seoulsquare.com/service4/login.asp)      | [서울 중구](https://goo.gl/maps/Un4yU6fDanxzrPrF7)           | 116          |
+| [대한상공회의소](https://www.korcham.net/nCham/Service/RentMeetRoom/appl/RentCalendar_new.asp) | [서울 중구](https://goo.gl/maps/ZopaLVjrKZSqcTUt9)           | 다양         |
+| [한국농수산식품유통공사](https://www.at.or.kr/ac/reserve/acko312000/roomSelect.action) | [서울 서초](https://goo.gl/maps/tBJNeiDnkzKrEFgk7)           | 다양         |
+| [야나두 스페이스](https://www.spacecloud.kr/space/8417)      | [서울 강남](https://goo.gl/maps/C13FHdRPiMP9LUgLA)           | 180          |
+| [월서울](https://www.spacecloud.kr/space/1597)               | [서울 성동](https://goo.gl/maps/Qj34mmVeRrVfLyDZ7)           | 115          |
+| [라마다 서울 동대문](http://www.ramadaddm.com/banquet/ballroom.html) | [서울 중구](https://goo.gl/maps/8YnTKCCp81eVDU5L9)           | 150          |
+| [SETEC](http://www.setec.or.kr/dis/rent/rent05.do)           | [서울 강남](https://goo.gl/maps/dY6h1qT914xbLzcWA)           | 다양         |
+| [홍대 프리스타일 스페이스 세미나실](https://www.spacecloud.kr/space/6606?keyword_id=3222) | [서울 마포](https://goo.gl/maps/pxSjhXCPTTzQ2C5m8)           | 40           |
+| [영영세미나실](https://www.spacecloud.kr/space/17298?keyword_id=2430) | [경기 성남](https://goo.gl/maps/m9YmjajwtDxNYxu88)           | 30           |
+| [포헤 라운지](https://www.spacecloud.kr/space/19097?keyword_id=3406) | [서울 중구](https://goo.gl/maps/zAizMjvm6VYbCAh7A)           | 40           |
+| [스페이스M](https://www.spacecloud.kr/space/2547?keyword_id=3222) | [서울 마포](https://www.spacecloud.kr/space/2547?keyword_id=3222) | 60           |
+| [소셜팩토리](https://www.spacecloud.kr/space/15274?keyword_id=3237) | [서울 서대문](https://www.spacecloud.kr/space/15274?keyword_id=3237) | 60           |
+| [대전 스터디, 강의장, 세미나, 회의실](https://www.spacecloud.kr/space/12163) | [대전 동구](https://goo.gl/maps/kDB3p2qTsokp9X8p6)           | 12           |
+| [서초 따듯한 모임공간](https://www.spacecloud.kr/space/13973) | [서울 서초](https://goo.gl/maps/Y4hWwngWczfLnQLQ7)           | 20           |
+| [마이파트너스 서초지점 회의실](https://www.spacecloud.kr/space/2227) | [서울 서초](https://goo.gl/maps/2iCGJ1XUgAJCv4uY6)           | 8            |
+| [르호봇 구의 비즈니스 센터](https://www.spacecloud.kr/space/1197) | [서울 광진](https://goo.gl/maps/cdLr7p1A3osYfyAt6)           | 10           |
+| [수원돌봄 교육장](https://www.spacecloud.kr/space/10352)     | [경기 수원](https://goo.gl/maps/G1AKiKSjaZinAU3DA)           | 52           |
+| [비즈인비즈 구의센터 회의실](https://www.spacecloud.kr/space/9731) | [서울 광진](https://goo.gl/maps/eXmnTHNH9MHwxKFT8)           | 10           |
+|                                                              |                                                              |              |
 
-## 스타트업 지원기관
+## 
 
 | 장소                                                         | 위치                                                         | 최대수용인원 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
